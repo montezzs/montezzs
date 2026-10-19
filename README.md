@@ -2,7 +2,7 @@
 
 <center>
 
-        ## Samuel Montez
+## Samuel Montez ##
 
 ## <img src="https://github.com/montezzs/montezzs/blob/main/banner.png" width="100%">
 <table>
