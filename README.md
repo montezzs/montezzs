@@ -3,7 +3,7 @@
 <center>
 ## *Samuel Montez*
 
-"![Imagem banner] (https://github.com/montezzs/montezzs/blob/main/banner.png)"%22)
+## <img src="https://github.com/montezzs/montezzs/blob/main/banner.png" width="100%">
     
 <table>
     <tr>
