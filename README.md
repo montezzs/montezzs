@@ -1,6 +1,10 @@
-## Olá
+
 
 <center>
+## *Samuel Montez*
+
+"![Imagem banner] (https://github.com/montezzs/montezzs/blob/main/banner.png)"%22)
+    
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montezzs&hide=html&layout=compact&theme=buefy" /></td>
